@@ -1,6 +1,6 @@
 ![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
 <h1 align="center">Hello 👋, I'm  PRATHAM  </h1>
-<h3 align="center">A passionate Full Stack developer and a Data Scientist enthusiast from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer and a Data Scientist  and a Full Stack Developer enthusiast from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZyNmpycDR5dHdrYmIzZGU2ZHV0eG93eWQwd3A3Nm1kamJxZHJvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/pratham_2810" target="blank"><img src="https://img.shields.io/twitter/follow/pratham_2810?logo=twitter&style=for-the-badge" alt="pratham_2810" /></a> </p>
 
-- 🌱 I’m currently learning **React ,Node.js,Machine Learning**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning,Gen AI,React**
 
-- 💬 Ask me about **MERN,DATA SCIENCE**
+- 💬 Ask me about **DATA SCIENCE,Machine Learning,Deep Learning**
 
 - 📫 How to reach me **prathammohanty18@gmail.com**
 
